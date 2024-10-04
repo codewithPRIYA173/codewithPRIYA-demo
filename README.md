@@ -1,8 +1,9 @@
 # codewithPRIYA-demo
-This is my first repository 2024
+It's my first day on github and this is my first repository [ 2024 ]
 <br>
-author--priya khatun
+author--Priya khatun;
 <br>
-currently i'm doing graduation in tech feild
+It's my 2nd year of college in the feild of tech;
 <br>
-my main stream is computer science and  tech
+being a student of computer science i'm going to learn and explore coding languages and programming; 
+
